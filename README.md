@@ -1,5 +1,4 @@
 # go_web_service_gin
-source codes for iup framework based programming go gin api project
 
 ![image](https://github.com/user-attachments/assets/189d7915-e2a9-4fb5-97c1-fdd53c0a002e)
 
